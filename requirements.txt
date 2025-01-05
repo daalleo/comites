@@ -1,14 +1,3 @@
-matplotlib
-plotly
-xlrd
-exchange_calendars
-openpyxl
-yfinance
-os
-PyPDF2 
-PdfReader
-PdfWriter
-reportlab.pdfgen
-canvas
-reportlab.lib.pagesizes
-letter
+streamlit
+reportlab
+PyPDF2
